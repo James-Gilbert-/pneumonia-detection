@@ -1,8 +1,10 @@
 # Overview
 
 ### Pneumonia detection and pathogen classification with PyTorch.
+<p align="center">
+  <img width="447" height="184" src="https://raw.githubusercontent.com/James-Gilbert-/medical-deep-learning/master/docs/tensorboard_util.png">
+</p>
 
-[Monitoring During Training](/docs/tensorboard_util.png)
 
 Implemented a similar approach described in the paper by Kermany et al., “Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning.” [1]
 
