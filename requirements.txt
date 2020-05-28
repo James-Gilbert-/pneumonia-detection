@@ -1,0 +1,12 @@
+
+torch==1.5.0
+torchvision
+pillow
+numpy
+matplotlib
+visdom
+sklearn
+
+
+
+
