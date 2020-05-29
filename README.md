@@ -25,7 +25,7 @@ Running and Monitoring Training
 - Run main.py with the data path specified organized into test/train folders, with the example directory structure given below. A data path is required.
 Example:
 ```
-python3 main.py --datapath=./data
+python3 main.py --data_path=./data
 ```
 
 - To monitor training, run
